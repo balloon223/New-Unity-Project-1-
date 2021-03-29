@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: c80863c6942a7794fac4c72b000d8cbc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - groundCheckTransform: {instanceID: 0}
+  - door1: {instanceID: 0}
+  - door2: {instanceID: 0}
+  - door3: {instanceID: 0}
+  - door4: {instanceID: 0}
+  - door5: {instanceID: 0}
+  - door6: {instanceID: 0}
+  - door7: {instanceID: 0}
+  - obj1: {instanceID: 0}
+  - DeathAni: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
